@@ -1,0 +1,192 @@
+/*
+==========================================
+Color Pallete
+==========================================
+
+Black: #0B0C10
+Light Black: #1F2833
+White: #C5C6C7
+Light Blue: #66FCF1
+Dark Blue: #45A29E
+
+
+/*
+==========================================
+GENERAL
+==========================================
+*/
+
+body{
+    background-color: #DAFFFF;
+}
+
+.black{
+    color: #0B0C10 !important; 
+}
+.lightblack{
+    color: #1F2833 !important;
+}
+.white{
+    color: #C5C6C7 !important;
+}
+.lightblue{
+    color: #66FCF1 !important;
+}
+.darkblue{
+    color: #45A29E !important;
+}
+
+
+
+/*
+==========================================
+HEADER STYLING
+==========================================
+*/
+
+
+
+/* NAVBAR STYLING */
+.navbar-light{
+    background-color: #C9FFF5 !important;
+    
+}
+.navbar-brand,
+.nav-link{
+    color: #45A29E !important;
+}
+/* HERO SYTLING*/
+
+.hero-bg{
+    background: url(img/best-story-games.jpeg);
+    color: #C5C6C7 !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size:cover;
+    position:relative;
+    
+
+
+
+}
+
+
+.long{
+    height: 100px;
+}
+h1{
+    color: #66FCF1 !important;
+}
+.wedge{
+    height:100px;
+    width:100%;
+}
+.wedge-img{
+    width:100%;
+    height:100px;
+}
+/* BUTTON SYTLING*/
+
+
+.btn-primary, .btn-primary:active, .btn-primary:visited{
+    border-color: #66FCF1 !important;
+    background-color: #C9FFF5 !important;
+    color: #0B0C10;
+}
+.btn-primary:hover{
+    background-color: #45A29E !important;
+}
+
+
+/*
+==========================================
+GRID ONE LEFT
+==========================================
+*/
+.wrapper{
+    background-color:#45A29E;
+}
+
+#col-left-one{
+    background-color: #45A29E;
+
+   
+} 
+
+.display-5{
+    color: #1F2833 !important;
+}
+
+
+mark{
+    background-color: #66FCF1 !important;
+}
+
+
+/*
+==========================================
+GRID ONE RIGHT
+==========================================
+*/
+
+#col-right-one{
+    background-color: #45A29E;
+}
+
+.display-4{
+    font-size: 45px;
+}
+
+/*
+==========================================
+GRID TWO
+==========================================
+*/
+.wrapper-two{
+    background-color: #DAFFFF;
+}
+
+
+
+.btn-secondary, .btn-secondary:active, .btn-secondary:visited{
+    border-color: #1F2833 !important;
+    background-color: #66FCF1 !important;
+    color: #1F2833;
+}
+.btn-secondary:hover{
+    background-color: #45A29E !important;
+}
+
+
+
+/*
+==========================================
+GRID THREE
+==========================================
+*/
+
+.card{
+    margin:0 auto;
+}
+
+
+/*
+==========================================
+GRID FOUR
+==========================================
+*/
+#definition{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+/*
+==========================================
+CUSTOM
+==========================================
+*/
+
