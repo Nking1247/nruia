@@ -54,8 +54,17 @@ HEADER STYLING
 .navbar-brand,
 .nav-link{
     color: #45A29E !important;
+    font-size:x-large;
+}
+
+.moreMargin{
+    margin-top: 5rem !important;
 }
 /* HERO SYTLING*/
+
+.navbar-brand{
+    font-size: xx-large;
+}
 
 .hero-bg{
     background: url(img/IMG_1419.jpg);
